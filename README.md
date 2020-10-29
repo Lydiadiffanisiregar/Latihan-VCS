@@ -73,5 +73,7 @@
    ![gitpush](poto/save.png) <br>
    - Setelah sudah dapat dipastikan benar-benar tersimpan. Langkah selanjutnya adalah membuka kembali App Gitbash dan mengetikan syntax: *'git add .'* <br>
    ![gitpush](poto/add.png) <br>
+   - Jika sudah, langkah berikutnya kita akan melakukan *commit*. Yang dimana fungsi commit itu sendiri adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak terjadi perubahan pada remote repository. Caranya dengan mengetikan syntax: *'git commit "Update README.md'*. <br>
+   ![gitpush](poto/md.png) <br>
    
 
