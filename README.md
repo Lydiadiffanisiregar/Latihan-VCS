@@ -59,5 +59,6 @@
 ### CARA ME-REMOTE REPOSITORY PADA GITBASH
 
   - Langkah pertama, kita harus menyalin terlebih dahulu link URL git kita yang ada pada Github, dengan cara tekan tombol 'Code' lalu kalian pilih pada kolom 'https://' dan setelahnya kalian Copy. <br>
-  ![gitpush](poto/linkgit.png) <br>
+  ![gitpush](poto/Linkgit.png) <br>
+  
 
