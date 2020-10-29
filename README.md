@@ -31,4 +31,6 @@
   ![gitpush](poto/account.png) <br>
   - Silahkan mengecek email yang sama dengan yang digunakan pada saat mendaftar tadi untuk melakukan verifikasi. <br>
   ![gitpush](poto/please.png) <br>
+  - Setelah terdapat notif dari Github pada email kalian, segera lakukanlah verifikasi sebelum terjadi error (kadaluarsa). <br>
+  ![gitpush](poto/gmail.png) <br>
   
