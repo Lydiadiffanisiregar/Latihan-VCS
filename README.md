@@ -46,4 +46,7 @@
    - Pilih kolom yang bertuliskan 'README file' pada pilihan yang diberikan. <br>
    - Setelah itu arahkan kursor pada bagian *'Create Repository'* <br>
    ![gitpush](poto/repository.png) <br>
-   
+   - Setelah mendapat tampilan seperti gambar dibawah, berarti Repository kalian sudah berhasil dibuat. dan kalian juga bisa tekan pada tulisan 'README' yang berwarna biru untuk membukanya. <br>
+  - Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya pada lembar kerja, kalian bisa menekan gambar pensil seperti pada gambar dibawah ini. <br>
+  ![gitpush](poto/VCS.png) <br>
+  
