@@ -33,6 +33,7 @@
   ![gitpush](poto/please.png) <br>
   - Setelah terdapat notif dari Github pada email kalian, segera lakukanlah verifikasi sebelum terjadi error (kadaluarsa). <br>
   ![gitpush](poto/gmail.png) <br>
+
   # SELANJUTNYA ADALAH LANGKAH MEMBUAT REPOSITORY..
 
 
@@ -51,4 +52,12 @@
   ![gitpush](poto/VCS.png) <br>
   - Tekan pada kolom 'Commit Changes' jika kalian ingin menyimpan hasil kerja kalian ataupun setelah kalian melakukan perubahan pada lembar kerja kalian. <br>
   ![gitpush](poto/aja.png) <br>
+
+   # SETELAH PEMBUATAN AKUN DAN REPOSITORY TELAH SELESAI SELANJUTNYA KITA AKAN ME-REMOTE REPOSITORY PADA GITBASH LOKAL.
+
+
+### CARA ME-REMOTE REPOSITORY PADA GITBASH
+
+  - Langkah pertama, kita harus menyalin terlebih dahulu link URL git kita yang ada pada Github, dengan cara tekan tombol 'Code' lalu kalian pilih pada kolom 'https://' dan setelahnya kalian Copy. <br>
+  ![gitpush](poto/linkgit.png) <br>
   
