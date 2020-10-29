@@ -23,4 +23,6 @@
    ### LANGKAH AWAL MENGGUNAKAN GITHUB
 
 * ### LOGIN AKUN GITHUB
-  - Bukalah Github pada situs resminya yaitu *github.com*. Setelah itu pilih menu Sign Up yang terletak pada pojok kanan atas jika memang belum mempunyai akun. 
+  - Bukalah Github pada situs resminya yaitu *github.com*. Setelah itu pilih menu Sign Up yang terletak pada pojok kanan atas jika memang belum mempunyai akun. <br>
+  ![gitpush](poto/signup.png) <br>
+   
