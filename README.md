@@ -25,4 +25,6 @@
 * ### LOGIN AKUN GITHUB
   - Bukalah Github pada situs resminya yaitu *github.com*. Setelah itu pilih menu Sign Up yang terletak pada pojok kanan atas jika memang belum mempunyai akun. <br>
   ![gitpush](poto/signup.png) <br>
+  - Kemudian, isilah data & email kalian dengan benar. <br>
+  ![gitpush](poto/create.png) <br>
    
